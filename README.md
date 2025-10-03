@@ -1,6 +1,1 @@
-# This is my Local Repo
-.
-123
-1234
-12345
-123456
+# This is my Local Repo.
